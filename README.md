@@ -1,52 +1,102 @@
-## 🌟 Pawan Choudhary's Netflix-inspired Portfolio 🌟  
+# 🎬 Netflix Inspired Portfolio
 
-Welcome to my personal portfolio project! 🚀  
-This website showcases my work, skills, and experiences in **backend and full-stack development**.  
-It's designed to be lightweight, customizable, and professional while maintaining an approachable style.  
+A Netflix-inspired developer portfolio built to showcase my projects, skills, certifications, and journey as a B.Tech CSE (AI & ML) student.
 
-Explore specific sections tailored to different tech stacks:  
-
-- 🌟 Java (Spring Boot projects) – Coming soon 🚀  
-- 🌟 Node.js & Backend Development – Coming soon 🚀  
-- 🌟 Frontend Projects – Coming soon 🚀  
-- 🌟 Ruby on Rails Projects – Coming soon 🚀  
-
-![Screenshot](https://github.com/user-attachments/assets/f8220485-16ec-48cf-8cb2-7853540c5724)  
+🌐 Live Website: https://pawanchoudhary.in
 
 ---
 
-## ✨ Features  
+## 📖 About The Project
 
-- 🌍 **Dynamic Content**: Can be integrated with a headless CMS (e.g., [DatoCMS](https://www.datocms.com)) for easy content management.  
-- ⚡ **Fast & Responsive**: Built with modern web technologies for seamless performance.  
-- 🎨 **Customizable**: Modular and easy to adapt to your own needs.  
-- 📈 **Professional Yet Personal**: Highlights projects, skills, and achievements.  
+This portfolio was originally built during my first year of engineering as a frontend development learning project.
 
----
+Instead of using a traditional portfolio layout, I wanted to create something more engaging and interactive. Inspired by Netflix's user experience, this portfolio presents projects, skills, achievements, and personal information in a familiar streaming-platform style.
 
-## 🛠️ Tech Stack  
-
-This portfolio is built with love and:  
-
-- ⚛️ **React** (Frontend)  
-- ☁️ **Hosting**: Netlify / Vercel (deployment-ready)  
-- 🖌️ **Tailwind CSS** (Styling)  
-- 🧑‍💻 **Backend Projects (Java + Node.js)** – Coming soon 🚀  
-- 🧩 **Other Tools**: GitHub Actions  
+Over time, the project evolved into my primary personal website and continues to be updated with new projects, certifications, and experiences.
 
 ---
 
-## ⭐ Show Your Support  
+## ✨ Features
 
-If you find this project helpful or inspiring, give it a ⭐ on GitHub — it means the world to me! 🌟  
+* 🎬 Netflix-inspired UI & UX
+* 📱 Responsive Design
+* 🚀 Project Showcase
+* 🏆 Certifications Section
+* 💻 Technical Skills Display
+* 🎥 Video Portfolio Integration
+* 📧 Contact & Social Links
+* 🌙 Modern User Experience
 
 ---
 
-## 📚 Getting Started  
+## 🛠️ Tech Stack
 
-Want to set this up locally? Follow these steps:  
+### Frontend
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/pawan-dev-c/Netflix_portfolio_pawan.git
-   cd Netflix_portfolio_pawan
+* React.js
+* TypeScript
+* CSS
+* JavaScript
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Vercel / Hosting Platform
+
+---
+
+## 🚀 Projects Featured
+
+Some of the projects showcased inside this portfolio include:
+
+* AI Applications
+* Machine Learning Projects
+* Web Development Projects
+* Automation Tools
+* Personal Experiments
+
+More projects are continuously being added.
+
+---
+
+## 📈 Future Improvements
+
+* Enhanced animations
+* Better project filtering
+* Blog integration
+* Achievement timeline
+* Improved mobile experience
+* AI-powered portfolio assistant
+
+---
+
+## 👨‍💻 About Me
+
+I'm Pawan Choudhary, a B.Tech CSE (AI & ML) student passionate about:
+
+* Artificial Intelligence
+* Machine Learning
+* Software Development
+* Video Editing
+* Building useful digital products
+
+My goal is to build projects that solve real-world problems while continuously improving my technical and creative skills.
+
+---
+
+## ⭐ Acknowledgements
+
+The initial inspiration for this portfolio came from the open-source Netflix Portfolio concept created by Sumanth Samala. The project has since been customized, expanded, and adapted to reflect my own work, projects, and personal brand.
+
+---
+
+## 📬 Connect With Me
+
+🌐 Website: https://pawanchoudhary.in
+
+💼 LinkedIn: Add your LinkedIn URL
+
+📧 Email: Add your Email
+
+🐙 GitHub: https://github.com/pawan-dev-c
