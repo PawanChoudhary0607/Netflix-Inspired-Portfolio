@@ -99,4 +99,4 @@ The initial inspiration for this portfolio came from the open-source Netflix Por
 
 📧 Email: sendmethosebuck@gmail.com
 
-🐙 GitHub: https://github.com/pawan-dev-c
+🐙 GitHub: https://github.com/PawanChoudhary0607
